@@ -1,0 +1,6 @@
+Lista de por hacer al sistema :
+1) Se deben gestionar usuarios
+2) Crear una interfaz para que el usuario pueda modificar su contraseña luego de ser asignada.
+3) Trabajar dos modelos en una vista(personal-personal detalle)
+4) Personalizar error cuando no se pueda eliminar un registro dada la relación con otra tabla
+5) Generar consultas especificas al menos en tres modelos.
